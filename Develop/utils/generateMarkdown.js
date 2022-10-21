@@ -72,7 +72,7 @@ ${data.tests}
 
 ---
   ## Questions
- If you have any questions contact ${data.username}. You can find my repository here at ${data.repo}.
+ If you have any questions my github username is ${data.username}. You can find my repository here at ${data.repo}.
 `;
 }
 
